@@ -1,6 +1,6 @@
 # Transposable Elements annotation pipeline
 
-For the Transposable elements annotation of the genome, a custom pipeline was used (see *image* below), based on state-of-the-art tools publicly available. Custom scripts in Python and bash were developed for filtering and correction during intermediary steps between tools.
+For the transposable elements annotation of the genome assembly, a custom pipeline was used (see *image* below), based on state-of-the-art tools publicly available. Filtering and correction steps between tools were processed with custom python and bash scripts.
 
 These tools are:
 
