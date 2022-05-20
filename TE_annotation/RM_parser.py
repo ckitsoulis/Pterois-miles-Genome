@@ -1,9 +1,12 @@
-#%%
 from sys import argv
 import pandas as pd
 import numpy as np
 import itertools
 import os
+
+"""
+This scripts parses the BED file tha came from .out file, produced by RepeatMasker, and returns an up-to-date categorisation of TEs.
+"""
 
 #input_file = sys.argv[-2]
 #assembly_size = sys.argv[-1]
