@@ -1,6 +1,11 @@
 from Bio import SeqIO
 import os
 
+"""
+This python script parses a TE library produced by EDTA and returns 3 sub-libraries for 1) completely classified, 2) unclassified and 
+3) partially classified sequences.
+"""
+
 unknown_TE = "TE_libraries/Unknown_EDTA.fasta"
 unordered_TE = "TE_libraries/UnOrdered_EDTA.fasta"
 classified_TE = "TE_libraries/Classified_EDTA.fasta"
