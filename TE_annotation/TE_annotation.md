@@ -16,7 +16,7 @@ These tools are:
 All tools were run in conda environment and the installation instructions for each tool and their dependencies are provided in the corresponding repositories.
 
 ## Usage
-All commands are provided in a pre-defined order (non-automatic usage for now) in the file *"TE_annotation_workflow.sh"*.
+All commands are provided in a pre-defined order (non-automatic usage for now) in the file *"TE_Annotation_workflow.sh"*.
 
 ## References
 1.
