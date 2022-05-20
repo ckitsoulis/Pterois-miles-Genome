@@ -1,6 +1,9 @@
-#%%
 from library_split import parse_fasta
 import os
+
+"""
+This scripts reformats the headers of fully classified sub-library to be compatible with RepeatMasker.
+"""
 
 reformation_dict = {"DTT": "TcMar-Mariner", "DTA": "hAT-hobo", 
 "DTM": "Mutator", "DTE": "Merlin", "DTR": "Transib", "DTP": "P", 
