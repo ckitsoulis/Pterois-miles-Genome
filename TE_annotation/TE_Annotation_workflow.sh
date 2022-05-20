@@ -7,7 +7,7 @@
 # ======================================================================================================================================
 ## STEP 1: Install EDTA pipeline & Run on genome assembly for de novo TE families prediction and classification -- EDTA --
 # INPUT: Assembly
-# DEPENDENCIES: Check DeepTE documentation
+# DEPENDENCIES: Check EDTA documentation
 # parameters: species = Others, sensitive = 1 (use repeatmodeler extension), anno = 1 (for whole genome TE annotation), threads
 
 ASSEMBLY=/home1/christos_k/pterois_miles/Assembly_lionfish/GENOME_ASSEMBLY/lionfish_assembly.fasta
