@@ -4,11 +4,11 @@ For the transposable elements annotation of genome assembly, a custom pipeline w
 
 Tools used:
 
-1. [RepeatModeler](https://github.com/Dfam-consortium/RepeatModeler)
-2. [EDTA](https://github.com/oushujun/EDTA)
-3. [DeepTE](https://github.com/LiLabAtVT/DeepTE)
-4. [RepeatMasker](http://www.repeatmasker.org)
-5. [RM_parser](https://github.com/ckitsoulis/Pterois-miles-Genome/blob/main/TE_annotation/RM_parser.py)
+- [RepeatModeler](https://github.com/Dfam-consortium/RepeatModeler)
+- [EDTA](https://github.com/oushujun/EDTA)
+- [DeepTE](https://github.com/LiLabAtVT/DeepTE)
+- [RepeatMasker](http://www.repeatmasker.org)
+- [RM_parser](https://github.com/ckitsoulis/Pterois-miles-Genome/blob/main/TE_annotation/RM_parser.py)
 
 
 ![TE_diagram](https://github.com/ckitsoulis/Pterois-miles-Genome/blob/main/TE_annotation/TE_diagram.png)
