@@ -1,8 +1,8 @@
 # Transposable Elements annotation pipeline
 
-For the transposable elements annotation of the genome assembly, a custom pipeline was used (see *image* below), based on state-of-the-art tools publicly available. Filtering and correction steps between tools were processed with custom python and bash scripts.
+For the transposable elements annotation of genome assembly, a custom pipeline was used (see *image* below), based on state-of-the-art tools publicly available. Filtering and correction steps between tools were processed with custom python and bash scripts.
 
-These tools are:
+Tools used:
 
 1. [RepeatModeler](https://github.com/Dfam-consortium/RepeatModeler)
 2. [EDTA](https://github.com/oushujun/EDTA)
@@ -10,7 +10,7 @@ These tools are:
 4. [RepeatMasker](http://www.repeatmasker.org)
 
 
-![Screenshot from 2022-03-24 20-36-45](https://user-images.githubusercontent.com/77507999/159987168-99681bf0-39ca-490e-ac35-f491de8dac45.png)
+![TE_diagram](https://github.com/ckitsoulis/Pterois-miles-Genome/blob/main/TE_annotation/TE_diagram.png)
 
 ## Installation
 All tools were run in conda environment and the installation instructions for each tool and their dependencies are provided in the corresponding repositories.
