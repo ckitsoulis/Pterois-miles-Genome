@@ -5,13 +5,13 @@ import itertools
 import os
 
 """
-This scripts parses the BED file tha came from .out file, produced by RepeatMasker, and returns an up-to-date categorisation of TEs.
+This scripts parses the BED file that came from .out file, produced by RepeatMasker, and returns an up-to-date categorisation of TEs.
 """
 
 #input_file = sys.argv[-2]
 #assembly_size = sys.argv[-1]
 
-file_out = "/home/christos/Documents/master_bioinfo/Thesis_PT/Genome_Annotation/TE_Annotation/BEDfiles/RM_output.merged.bed"
+file_out = "/christos/Documents/Thesis/Genome_Annotation/TE_Annotation/BEDfiles/RM_output.merged.bed"
 RM = pd.read_csv(file_out, sep="\t", header=None)
 assembly_pt = 902353306
 
