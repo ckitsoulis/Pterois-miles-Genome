@@ -5,7 +5,7 @@ import itertools
 import os
 
 """
-This scripts parses the BED file that came from .out file, produced by RepeatMasker, and returns an up-to-date categorisation of TEs.
+This scripts parses the BED file that came from .out file, produced by RepeatMasker, and returns an up-to-date categorization of TEs.
 """
 
 #input_file = sys.argv[-2]
@@ -278,5 +278,4 @@ def RM_parser(RM_out, assembly):
 
     ## ============================================================================================= ##
 
-#%%
 RM_parser(RM, assembly_pt)
