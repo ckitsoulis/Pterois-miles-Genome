@@ -9,7 +9,7 @@ This repository contains scripts and implementations that have been developed du
 5.
 
 ## 
-Connected repositoryies:
+Connected repositories:
 
 [SnakeCube](https://github.com/genomenerds/SnakeCube)
 
