@@ -5,7 +5,7 @@ All pieces of work were conducted at the [Genomics & Bioinformatics Group](https
 
 1. [Construction of genome assembly](https://github.com/genomenerds/SnakeCube)
 2. [Transposable elements annotation](https://github.com/ckitsoulis/Pterois-miles/tree/main/TE_annotation)
-3. Genome annotation
+3. [Genome annotation](https://github.com/ckitsoulis/Pterois-miles-Genome/tree/main/Genome_annotation)
     - Structural (gene prediction)
     - Functional
 5.
