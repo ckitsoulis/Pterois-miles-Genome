@@ -14,7 +14,9 @@ Tools used:
 ![TE_diagram](https://github.com/ckitsoulis/Pterois-miles-Genome/blob/main/TE_annotation/TE_diagram.png)
 
 ## Installation
-All tools were run in conda environment and the installation instructions for each tool and their dependencies are provided in the corresponding repositories.
+All tools were run in conda environments and their installation instructions and dependencies are provided in the corresponding github repositories.
+
+[conda installation](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
 
 ## Usage
 All commands are provided in a pre-defined order (non-automatic usage for now) in the file *"TE_Annotation_workflow.sh"*.
