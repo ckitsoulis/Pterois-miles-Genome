@@ -4,11 +4,12 @@ This repository contains scripts and implementations that have been developed du
 All pieces of work were conducted at the [Genomics & Bioinformatics Group](https://genomenerds.her.hcmr.gr/) in IMBBC, of Hellenic Centre for Marine Research.
 
 1. [Construction of genome assembly](https://github.com/genomenerds/SnakeCube)
-2. [Transposable elements annotation](https://github.com/ckitsoulis/Pterois-miles/tree/main/TE_annotation)
 3. [Genome annotation](https://github.com/ckitsoulis/Pterois-miles-Genome/tree/main/Genome_annotation)
-    - Structural (gene prediction)
+    - [Transposable elements]
+    - [Structural (gene prediction)]
     - Functional
-5.
+5. Comparative genomics
+
 
 ## 
 Connected repositories:
