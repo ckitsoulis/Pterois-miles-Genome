@@ -14,7 +14,7 @@ args = parser.parse_args()
 
 
 if not len(sys.argv) >= 3:
-    sys.exit('Usage: select_mik_train.py <mikado.loci.metrics.tsv> <mikado.loci.gff3> ')
+    sys.exit('Usage: select_training.py <_.metrics.tsv> <_.loci.gff3> ')
 
 training=set()
 genes=set()
