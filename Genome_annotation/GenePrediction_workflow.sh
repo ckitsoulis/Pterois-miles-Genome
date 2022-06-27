@@ -91,11 +91,9 @@ mkdir aug_training/
 autoAugTrain.pl --trainingset=training.gff3 --genome=$MASKED_GENOME --species=lionfish --workingdir=aug_training --optrounds=2 --cpus=20 --verbose
 
 ## ===== STEP 10 =====
-### Convert gff3 to gtf keeping only coding regions and generate species-specific exon hints -- AGAT --
+### Convert gff3 to gtf keeping only coding regions and generate species-specific exon hints -- AGAT, Python --
 
 agat_convert_sp_gff2gtf.pl --gff mikado.loci.gff3 -o mikado.loci.gtf
-
-python gtfToHintsMik.py mikado.loci.gtf
 
 ## ===== STEP 11 =====
 ### Generate spliced protein alignments to masked genome, from well annotated species -- EXONERATE --
@@ -138,9 +136,6 @@ cat exonerate_results3/*.gff > Gasterosteus_aculeatus._Exon.gff
 grep -E "^scaffold|^contig" Oryzias_latipes._Exo.gff  > Oryzias_latipes._Exo_clean.gff
 grep -E "^scaffold|^contig" Argyrosomous_regius._Exo.gff > Argyrosomous_regius._Exo_clean.gff
 grep -E "^scaffold|^contig" Gasterosteus_aculeatus._Exon.gff > Gasterosteus_aculeatus._Exo_clean.gff
-
-# for each species
-python exoToHints.py Species._Exo_clean.gff
 
 # sort .exh.gff files
 sort -k1,1 -k2,2n Species._Exo_clean.exh.gff > Species._Exo_clean_sorted.exh.gff
