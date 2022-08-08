@@ -1,5 +1,5 @@
 # Genome analysis of *Pterois miles* - UNDER CONSTRUCTION
-This repository contains scripts and implementations that have been developed during my master thesis on the genome analysis of devil firefish *Pterois miles*. Analysis consists of *de novo* construction of genome assembly, genome annotation (transposable elements, gene prediction, functional), phylogenomic tree inferrence and comparative studies. Scripts and workflows for each step are provided in their corresponding folders.
+This repository contains scripts and implementations that have been developed during my master thesis on the genome analysis of devil firefish *Pterois miles*. Analysis consists of *de novo* construction of genome assembly, genome annotation (transposable elements, gene prediction, functional), phylogenomic tree inferrence and comparative genomic studies. Scripts, workflows and documentation files for each step are provided in their corresponding folders.
 
 All pieces of work were conducted at the [Genomics & Bioinformatics Group](https://genomenerds.her.hcmr.gr/) in IMBBC, of Hellenic Centre for Marine Research.
 
