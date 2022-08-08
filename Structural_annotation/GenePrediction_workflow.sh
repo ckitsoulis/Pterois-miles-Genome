@@ -4,7 +4,7 @@
 # Christos Kitsoulis, 2021-2022
 # Genomics & Bioinformatics Group at IMBBC, HCMR
 
-MASKED_GENOME=/home/christoS/pterois_miles/Genome_annotation/gene_prediction/pm_assembly_MASKED.fasta
+MASKED_GENOME=/home/christos/pterois_miles/Genome_annotation/gene_prediction/pm_assembly_MASKED.fasta
 UNIPROT_FISH=/home/christos/pterois_miles/Genome_annotation/gene_prediction/UniProt_24FishProteomes.fasta
 HQ_TRANSCRIPTS=/home/christos/pterois_miles/Genome_annotation/gene_prediction/hq_transcripts
 
