@@ -22,7 +22,7 @@ Connected repositories:
 
 
 ## Acknowledgements
-This research was supported through computational resources provided by IMBBC (Institute of Marine Biology, Biotechnology and Aquaculture) of the HCMR (Hellenic Centre for Marine Research). Funding for establishing the [IMBBC HPC](https://hpc.hcmr.gr/) has been received by the MARBIGEN (EU Regpot) project, LifeWatchGreece RI, and the CMBR (Centrefor the study and sustainable exploitation of Marine Biological Resources) RI.
+This research was supported through computational resources provided by IMBBC (Institute of Marine Biology, Biotechnology and Aquaculture) of the HCMR (Hellenic Centre for Marine Research). Funding for establishing the [IMBBC HPC](https://hpc.hcmr.gr/) has been received by the MARBIGEN (EU Regpot) project, LifeWatchGreece RI, and the CMBR (Centre for the study and sustainable exploitation of Marine Biological Resources) RI.
 
 ## References
 1. Flynn J.M., Hubley R., Goubert C., Rosen J., Clark A.G., Feschotte C., Smit A.F. (2020). RepeatModeler2 for automated genomic discovery of transposable element families. Proc Natl Acad Sci U S A. 117(17): 9451-9457. doi: 10.1073/pnas.1921046117.
