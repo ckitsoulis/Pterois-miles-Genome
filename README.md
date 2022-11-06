@@ -9,6 +9,7 @@ All pieces of work were conducted at the [Genomics & Bioinformatics Group](https
     - [Structural (gene prediction)](https://github.com/ckitsoulis/Pterois-miles-Genome/tree/main/Structural_annotation)
     - Functional
 5. Comparative genomics
+    - [Orthology assignment](https://github.com/ckitsoulis/Pterois-miles-Genome/tree/main/Orthology_assignment)
 
 
 ## 
