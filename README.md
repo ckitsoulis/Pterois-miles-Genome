@@ -41,3 +41,5 @@ This research was supported through computational resources provided by IMBBC (I
 13. https://github.com/nathanweeks/exonerate
 14. https://github.com/NBISweden/AGAT
 15. https://github.com/gpertea/gffread
+
+[![DOI](https://zenodo.org/badge/470255261.svg)](https://zenodo.org/badge/latestdoi/470255261)
